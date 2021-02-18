@@ -27,9 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/4biomedicamentos/TI/_packaging/FOURBIO.NET.CORE/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/4biomedicamentos/TI/_packaging/FOURBIO.NET.FRAMEWORK/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
