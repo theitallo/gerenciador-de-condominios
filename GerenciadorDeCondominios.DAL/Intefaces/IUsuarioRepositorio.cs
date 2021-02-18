@@ -20,5 +20,7 @@ namespace GerenciadorDeCondominios.DAL.Intefaces
         Task IncluirUsuarioEmFuncao(Usuario usuario, string funcao);
 
         Task<Usuario> PegarUsuarioPeloEmail(string email);
+
+        Task AtualizarUsuarios(Usuario usuario);
     }
 }
