@@ -1,0 +1,12 @@
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.deps.json
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.dll
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.pdb
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.dll
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.pdb
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.csprojAssemblyReference.cache
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.AssemblyInfoInputs.cache
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.AssemblyInfo.cs
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.csproj.CoreCompileInputs.cache
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.csproj.CopyComplete
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.dll
+C:\Users\isantos\Documents\src\GerenciadorDeCondominios\GerenciadorDeCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.DAL.pdb
