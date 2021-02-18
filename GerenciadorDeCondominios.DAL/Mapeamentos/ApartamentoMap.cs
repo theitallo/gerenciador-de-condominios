@@ -17,10 +17,10 @@ namespace GerenciadorDeCondominios.DAL.Mapeamentos
             builder.Property(a => a.Foto).IsRequired();
 
             builder.Property(a => a.ProprietarioId).IsRequired();
-            builder.HasOne(a => a.Proprietario).WithMany(a => a.ProprietariosApartamentos).HasForeignKey(a => a.ProprietarioId);
+            builder.HasOne(a => a.Proprietario).WithMany(a => a.ProprietariosApartamentos).HasForeignKey(a => a.ProprietarioId).OnDelete(DeleteBehavior.NoAction);
 
-            builder.Property(a => a.MoradorId).IsRequired();
-            builder.HasOne(a => a.Morador).WithMany(a => a.MoradoresApartamentos).HasForeignKey(a => a.MoradorId);
+            builder.Property(a => a.MoradorId).IsRequired(false);
+            builder.HasOne(a => a.Morador).WithMany(a => a.MoradoresApartamentos).HasForeignKey(a => a.MoradorId).OnDelete(DeleteBehavior.NoAction);
 
             builder.ToTable("Apartamentos");
         }
