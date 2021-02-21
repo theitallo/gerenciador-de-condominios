@@ -15,3 +15,4 @@ C:\Users\isantos\Documents\src\gerenciador-de-condominios\GerenciadorDeCondomini
 C:\Users\isantos\Documents\src\gerenciador-de-condominios\GerenciadorDeCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.csproj.CoreCompileInputs.cache
 C:\Users\isantos\Documents\src\gerenciador-de-condominios\GerenciadorDeCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.dll
 C:\Users\isantos\Documents\src\gerenciador-de-condominios\GerenciadorDeCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.pdb
+C:\Users\isantos\Documents\src\gerenciador-de-condominios\GerenciadorDeCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorDeCondominios.BLL.csprojAssemblyReference.cache
