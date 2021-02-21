@@ -166,5 +166,17 @@ namespace GerenciadorDeCondominios.DAL.Repositorios
                 throw ex;
             }
         }
+
+        public string CodificarSenha(Usuario usuario, string senha)
+        {
+            try
+            {
+                return _gerenciadorUsuarios.PasswordHasher.HashPassword(usuario, senha);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

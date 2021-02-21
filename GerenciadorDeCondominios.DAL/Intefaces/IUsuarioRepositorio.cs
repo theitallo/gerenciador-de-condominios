@@ -33,5 +33,7 @@ namespace GerenciadorDeCondominios.DAL.Intefaces
         Task<IdentityResult> IncluirUsuarioEmFuncoes(Usuario usuario, IEnumerable<string> funcoes);
 
         Task<Usuario> PegarUsuarioPeloNome(ClaimsPrincipal usuario);
+
+        string CodificarSenha(Usuario usuario, string senha);
     }
 }
